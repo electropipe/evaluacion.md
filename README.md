@@ -1,8 +1,10 @@
 # Aprendizaje de presentaciones
 
 
-Daniel
-Fede
-Johnny
-Pedro
-Pipe
+
+
+* [Daniel](charladani.md)   
+*  [Fede](charlafede.md)   
+*  [Johnny](charlajohnny.md)   
+* [Pedro](charlapedro.md)   
+* [Pipe](charlapipe.md)   
