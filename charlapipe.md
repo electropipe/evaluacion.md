@@ -41,22 +41,22 @@ Esta encaminado a mostrar las diferencias y sonoridades de los generos Dance.
 
 #### Caracterización de la temática
 * Tiempo: *Contemporáneo, Retro, Futurista?*  
-Contemporaneo
+Contemporaneo   
 
-* Espacio: *Cerrado?abierto?deportivo?natural?*
-Cerrado y academico
-* Tecnología: *Media?avanzada?*
-Media  
-* Autenticidad: *Original?versión?copia local?*  
-*   
-* Sofisticación: * ¿Qué tan compleja, acabada, complicada, perfeccionada está la temática?*  
-* 
-* Escala :*intima?privada?publica?masiva?*   
+* Espacio: *Cerrado?abierto?deportivo?natural?*   
+Cerrado y academico   
+* Tecnología: *Media?avanzada?*  
+Media    
+* Autenticidad: *Original?versión?copia local?*    
+copia local       
+* Sofisticación: * ¿Qué tan compleja, acabada, complicada, perfeccionada está la temática?*    
+Media alta para el inexperto.  Media baja para el conocedor  
+* Escala :*intima?privada?publica?masiva?*  No entiendo..  Publica supongo  
 * 
 
 ## Espacio
 #### Diferenciadores
-*¿Qué elementos del lugar son exclusivos de la experiencia?*
+*¿Qué elementos del lugar son exclusivos de la experiencia?*  
 
 #### Señalizadores
 *¿Que elementos (exteriores/interiores) indican, señalan, anuncian o acentúan la experiencia?*
