@@ -6,16 +6,16 @@
 
 
 
-### Evento:
+#### Evento:
 
 Los Sonidos del Futuro: Historia, análisis, y técnicas relevantes de diferentes géneros musicales en la música electrónica.
 
-### Locación:
+#### Locación:
 
 Auditorio 3D Parque Explora
 
 
-### Tema
+#### Tema
 
 Caracteristicas y diferencias de la musica Dance: Techno, Trance, House y DnB  
 
@@ -28,7 +28,7 @@ Expandir conceptos y aplicarlos a un demo en vivo como ejercicio.
 - Público: Estudiantes de informática musical, programadores, ingenieros de sonido, profesores.
 
 
-### Título:
+#### Título:
 
 Intyroduccion a la musica electronica
 
@@ -91,10 +91,10 @@ Interaccion con el ponente.
 *¿en qué momentos lograron los asistentes alterar el curso de la experiencia o el resultado final?*
 
 
-## Línea de tiempo
+#### Línea de tiempo
 
 
-### Percepción sobre la duración:
+#### Percepción sobre la duración:
 
 
 *Metodología de evaluación desarrollada por Estebangira
