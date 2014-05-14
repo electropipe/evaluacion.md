@@ -19,7 +19,7 @@ Auditorio 3D Parque Explora
 
 Caracteristicas y diferencias de la musica Dance: Techno, Trance, House y DnB  
 
-- Beneficio:  
+#### Beneficio:  
 - 
 Expandir conceptos y aplicarlos a un demo en vivo como ejercicio.  
 
