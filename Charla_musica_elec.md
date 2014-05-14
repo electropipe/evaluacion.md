@@ -1,21 +1,21 @@
 # Introduccion a la musica electronica
 
 
-# INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
+#### INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
 
 
 
 
-## Evento:
+### Evento:
 
 Los Sonidos del Futuro: Historia, análisis, y técnicas relevantes de diferentes géneros musicales en la música electrónica.
 
-## Locación:
+### Locación:
 
 Auditorio 3D Parque Explora
 
 
-## Tema
+### Tema
 * Conceptos/enfoques posibles:
 Caracteristicas y diferencias de la musica Dance: Techno, Trance, House y DnB  
 
@@ -29,7 +29,7 @@ Lanzamiento de Medellinvivelamúsica
 Estudiantes de informática musical, programadores, ingenieros de sonido, profesores.
 
 
-## Título:
+### Título:
 
 Los Sonidos del Futuro:
 
