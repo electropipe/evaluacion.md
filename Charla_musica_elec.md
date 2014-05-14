@@ -73,28 +73,44 @@ Boletines en redes sociales.
 Interaccion con el ponente.
 
 
-#### Impresiones voluntaria
+#### Impresiones voluntaria   
+
+No se a que se refiere esto.
 
 #### Impresiones involuntarias
 
+No se a que se refiere esto.
 
-## Dominio de la experiencia *Que tanto control control se tiene sobre cada uno de los aspectos*
-#### Entretenimiento
+
+## Dominio de la experiencia *Que tanto control se tiene sobre cada uno de los aspectos*
+Medio - Bajo
+
+#### Entretenimiento   
+
+No sabe No responde.
 
 #### Educación:
 *¿Se van los asistentes a casa educados en el asunto de la temática?¿Que elementos ayudan a ello?*
 
+Parcialmente creo.  ayuda que si salieron motivados, busquen e investiguen.
+
 #### Estética:
 *¿Se nota control en la estética de la puesta en escena y sus alrededores?*
+A mi parecer no.  Esta muy lejos todavia de lograr el control.
 
 #### Escapismo:
 *¿en qué momentos lograron los asistentes alterar el curso de la experiencia o el resultado final?*
 
+tal vez en las preguntas que hacia el publico, se podia desviar un poco a otras direcciones, pero creo que no fue drastico.
 
 #### Línea de tiempo
 
+Estuvo dentro de lo estipulado 70% controlado y #30% suerte.
+
 
 #### Percepción sobre la duración:
+
+Apenas fue!
 
 
 *Metodología de evaluación desarrollada por Estebangira
