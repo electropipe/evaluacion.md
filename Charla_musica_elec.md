@@ -1,116 +1,29 @@
-# Introduccion a la musica electronica
+# Aprendizaje de presentaciones
+
+Los nervios siguen siendo nuestro enemigo.  Propongo mas practica entre nosotros para mejorar
+Aprendí que lo que hay que estudiar es muchísimo  mas de lo que uno expone.  El dominio debe ser muy amplio
 
 
-#### INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
+
+## Conclusiones sobre la charla: Introducción a processing.
+Me pareció excelente esta charla, hubo dominio y preparación.
+Las graficas y los ejemplos fueron contundentes y atraparon a la audiencia.
+Las dudas fueron resueltas con destreza y certeza.
+
+
+
+##  Conclusiones sobre las dos charlas de Pipe Carmona: los sonidos del futuro y secuenciadores.
+
+Prepare la primera charla leyendo mucho, escribiendo y luego declamando y recitando a una audiencia imaginaria.
+Logrando conectar ideas y tener un orden mental de un 70%, pero en público este porcentaje se redujo notablemente debido a los nervios y primiparada.  El lugar también azaro mucho.
+Me falto mas practica.
+Me falto mas cuidado con temas que se pudieron malentender, como el tema de las drogas 
 
 
 
 
-#### Evento:
+## Conclusiones sobre la charla de Fede: Introducción a chuck.
 
-Los Sonidos del Futuro: Historia, análisis, y técnicas relevantes de diferentes géneros musicales en la música electrónica.
-
-#### Locación:
-
-Auditorio 3D Parque Explora
+-> El lenguaje de programación chuck siempre me a pareció algo complejo, pues funciona distinto en cuanto a la sintaxis de otros lenguajes; un ejemplo de ello es que las variables son declaradas a la derecha, caso contrario a los demás lenguajes donde las variables son declaradas a la izquierda.
 
 
-#### Tema
-
-Caracteristicas y diferencias de la musica Dance: Techno, Trance, House y DnB  
-
-#### Beneficio:  
-- 
-Expandir conceptos y aplicarlos a un demo en vivo como ejercicio.  
-
-- Ocasión: Lanzamiento de Medellinvivelamúsica    
-
-- Público: Estudiantes de informática musical, programadores, ingenieros de sonido, profesores.
-
-
-#### Título:
-
-Intyroduccion a la musica electronica
-
-#### Lema:   
-
-mostrar las diferencias y sonoridades de los generos Dance, con produccion de un demo para aplicar lo aprendido.  
-
-
-#### Caracterización de la temática
-* Tiempo: Contemporaneo   
-
-* Espacio: Cerrado y academico   
-* Tecnología: Media    
-* Autenticidad:  copia local       
-* Sofisticación: Media alta para el inexperto.  Media baja para el conocedor  
-* Escala :*intima?privada?publica?masiva?*  No entiendo..  Publica supongo  
-* 
-
-## Espacio   
-
-#### Diferenciadores
-*¿Qué elementos del lugar son exclusivos de la experiencia?*  Pantalla gigante y muy buen audio
-
-#### Señalizadores
-*¿Que elementos (exteriores/interiores) indican, señalan, anuncian o acentúan la experiencia?*
-
-Boletines en redes sociales.
-
-#### Eliminar
-
-#### Reducir
-
-#### Contradecir
-
-#### Resignificar
-
-#### Aumentar
-
-## Número de impresiones
-*¿qué le indica al usuario que está viviendo efectivamente la experiencia temática / taller que se le ofreció?*
-
-Interaccion con el ponente.
-
-
-#### Impresiones voluntaria   
-
-No se a que se refiere esto.
-
-#### Impresiones involuntarias
-
-No se a que se refiere esto.
-
-
-## Dominio de la experiencia *Que tanto control se tiene sobre cada uno de los aspectos*
-Medio - Bajo
-
-#### Entretenimiento   
-
-No sabe No responde.
-
-#### Educación:
-*¿Se van los asistentes a casa educados en el asunto de la temática?¿Que elementos ayudan a ello?*
-
-Parcialmente creo.  ayuda que si salieron motivados, busquen e investiguen.
-
-#### Estética:
-*¿Se nota control en la estética de la puesta en escena y sus alrededores?*
-A mi parecer no.  Esta muy lejos todavia de lograr el control.
-
-#### Escapismo:
-*¿en qué momentos lograron los asistentes alterar el curso de la experiencia o el resultado final?*
-
-tal vez en las preguntas que hacia el publico, se podia desviar un poco a otras direcciones, pero creo que no fue drastico.
-
-#### Línea de tiempo
-
-Estuvo dentro de lo estipulado 70% controlado y #30% suerte.
-
-
-#### Percepción sobre la duración:
-
-Apenas fue!
-
-
-*Metodología de evaluación desarrollada por Estebangira
