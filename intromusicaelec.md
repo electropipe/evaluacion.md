@@ -1,4 +1,4 @@
-# Charlas Pipe
+# Introduccion a la musica electronica
 
 
 # INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
