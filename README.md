@@ -31,4 +31,6 @@ Me falto mas cuidado con temas que se pudieron malentender, como el tema de las 
 
 Note a Dani muy nervioso durante toda la charla, esto hizo que se presentaran silencios incomodos y perdida de la conexión con el publico. Sentí que la charla no estuvo lo suficiente preparada.
 
-Creo que se pudo haber sacado mas provecho al tema. Los componentes electrónicos son muchos, y la forma de intervenir artefactos creo también.
+Creo que se pudo haber sacado mas provecho al tema. Los componentes electrónicos son muchos, y la forma de intervenir artefactos creo también.   
+
+
